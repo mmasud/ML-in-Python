@@ -1,1 +1,1 @@
-The goal of this repository is to save important python codes and documets that will help for future use.
+The goal of this repository is to use various Machine Learning tools and techniques in python.
